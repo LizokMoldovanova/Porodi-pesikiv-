@@ -1,7 +1,7 @@
 <html>
     <title>Породи собак</title>
     <body style="font-family: sans serif">
-        <header style="background-color:#FFB6C1;">
+         <header style="background-color:#FFB6C1;">
             <h1 style="text-align:center;">Породи собак</h1>
         </header>
           <main>
