@@ -19,7 +19,7 @@
          <img src="https://zoomapa.ua/content/uploads/images/100338858_1198x798.jpg"  width="260px"/>
          <img src="https://content.e-zoo.com.ua/img/uploads/blog/2024/stattya_374%20(1).jpg"  width="248px"/>
          <img src="https://aboutdogs.com.ua/wp-content/uploads/2022/10/pexels-koolshooters-7683642-1024x682.jpg"  width="263px"/>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PomeranSpitz2020.jpg/640px-PomeranSpitz2020.jpg"  width="177px"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PomeranSpitz2020.jpg/640px-PomeranSpitz2020.jpg"  width="150px"/>
          <p style="font-size:20px">Шпіц - дуже живий і розумний собака, ніжний, доброзичливий і надзвичайно контактний. Ця порода чудово підійде як сімейний улюбленець. Її представники дуже люблять брати участь у всіх сімейних справах і заняттях, до того ж вони відмінно ладнають із дітьми.</p>
           <h2 style="background-color:#FFB6C1; text-align:center;">Лабрадор-ретривер</h2>
           <img src="https://aboutdogs.com.ua/wp-content/uploads/2023/12/portrait-cute-labrador-sitting-grass-1-1024x683.jpg" width="260px"/>
